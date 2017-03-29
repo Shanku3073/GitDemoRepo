@@ -9,7 +9,7 @@ public class payments {
 	
 	public void executePayments()
 	{
-		System.out.println("Inside execute");
+		System.out.println("Inside execute method");
 	}
 	
 	
