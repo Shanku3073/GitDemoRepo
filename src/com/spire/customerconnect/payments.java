@@ -12,5 +12,8 @@ public class payments {
 		System.out.println("Inside execute");
 	}
 	
-	
+	public void savePayments()
+	{
+		System.out.println("Inside save");
+	}
 }
