@@ -6,4 +6,9 @@ public class payments {
 	{
 		System.out.println("Inside payments");
 	}
+	
+	public void executePayments()
+	{
+		System.out.println("Inside execute");
+	}
 }
